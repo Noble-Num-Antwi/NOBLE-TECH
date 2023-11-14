@@ -1,0 +1,45 @@
+*{
+    /* margin: 0; */
+    /* padding: 0; */
+}
+body{
+    background-color:rgb(244, 241, 197);
+}
+.home{
+    margin-top: 30px;
+}
+.margin{
+    margin-top: 40px;
+    width: 80%;
+    margin-left: 120px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+fieldset{
+    background-color: white;
+    /* width: 80%; */
+    margin: 20px;
+}
+#bag1{
+    text-align: center;
+}
+#bag2{
+    margin-top: 35px;
+    font-size: 20px;
+    line-height: 25px;
+    text-decoration: none; 
+}
+#bag3{
+    margin-left: 18px;
+}
+.kofi{
+    line-height: 20px;
+}
+mark{
+   background-color: red;
+   color: white;
+   font-size: 19px;
+   cursor: pointer; 
+}
